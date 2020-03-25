@@ -74,13 +74,13 @@ Reading about affordances and signifiers will help with my contruction of my ban
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+I had no idea what a Mircointeraction was before reading this chapter. But with the knowledge of understanding, it's easy to pick out what a Mircoininteration really is. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+I've learn't the definition of a Mircointeraction, and how they differ from featues in both their sizes and scope. They are simple, brief and an effortless design technique. I've also learn't what they are good for and where they are needed. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I found it interesting learning about the structure of Mircointeractions and the different triggers and rules. I'd like to see more exaples of this being used on everyday devices.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+This is releavnt to the project I'm working because Mircointeration is used to better user interaction and experience. This is important for my banana project to try an include a Mircointeration to make it easier for the user to use. 
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
