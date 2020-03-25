@@ -12,7 +12,7 @@
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+![Image]('Hello'.jpg)
 
 (Insert a caption here)
 
@@ -28,7 +28,7 @@ This experiment could be the basis of a real world application such as (insert s
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Light Sensor.jpg)
 
 (Insert a caption here)
 
@@ -45,7 +45,7 @@ This experiment could be the basis of a real world application such as (insert s
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Dimming light.jpg.PNG)
 
 (Insert a caption here)
 
@@ -62,7 +62,7 @@ This experiment could be the basis of a real world application such as a typical
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Fan motor.jpg)
 
 (Insert a caption here)
 
@@ -79,7 +79,7 @@ This experiment could be the basis of a real world application such as a fan for
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Piezo buzzer.png)
 
 (Insert a caption here)
 
