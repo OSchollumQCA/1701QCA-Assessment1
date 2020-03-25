@@ -64,13 +64,13 @@ This project is related to mine because (insert reasons here).
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Before reading 'The Design of Everyday Things', I believed that an affordance and signifier was the same thing. Whilst reading, I've figured out the difference between the both of them.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+I learn't the definitions of both an affordance and signifier. An affordance determines what actions are possible, whereas signifiers communicate where the action should take place.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I would like to learn more about all the different kinds of affordance and signifiers there are and how they work together. 
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+Reading about affordances and signifiers will help with my contruction of my banana project. By knowing the difference between the two, now I can incorporate that knowlegde into my project.
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
