@@ -84,13 +84,13 @@ This is releavnt to the project I'm working because Mircointeration is used to b
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+I thought before reading into this, that the process of design was plain and simple. Once going in and having a read, I've noticed that it can become a lot more complex. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+I've learnt the process it takes to complete an interactive object and that prototyping is very important for the whole design to work. Their are many challeneges you'll need to overcome when creating a project, and trial and error is key!
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I would like to learn/read more examples of people's projects and how their process differs from  Sullivan's project. 
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+Learning the process is useful for my developing design, being able to overcome obsticals and use trial and error. 
 
 
 ## Interaction flowchart ##
