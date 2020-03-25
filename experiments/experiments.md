@@ -62,7 +62,7 @@ This experiment could be the basis of a real world application such as a typical
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](IMG_0736 2.JPG)
+![Image](IMG_0736_2.JPG)
 
 (Insert a caption here)
 
