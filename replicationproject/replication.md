@@ -53,7 +53,7 @@ This project is related to mine because (insert reasons here).
 
 https://category.yahboom.net/products/alligatorclipboard
 
-![Image](Screen Shot 2020-03-25 at 2.56.59 pm.png)
+![Image](microbit_5_1ef84bf5-cfc4-43ff-a104-69a96e9b6278_1024x1024.jpg)
 
 This project is related to mine because (insert reasons here).
 
