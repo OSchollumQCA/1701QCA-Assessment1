@@ -36,8 +36,6 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Dimming an LED using a potentiometer ###
 
-(Replace this with the experiment name)
-
 #### Photo of completed project ####
 
 ![Image](IMG_1018.PNG)
@@ -52,8 +50,6 @@ This experiment could be the basis of a real world application such as a typical
 
 ### Using transistor to drive a motor ###
 
-(Replace this with the experiment name)
-
 #### Photo of completed project ####
 
 ![Image](IMG_0736_2.JPG)
@@ -67,8 +63,6 @@ In this experiment, I've learnt the ability to create a moving and functional fa
 This experiment could be the basis of a real world application such as a fan for an bedroom, office space etc.
 
 ### Setting the tone with piezo buzzer ###
-
-(Replace this with the experiment name)
 
 #### Photo of completed project ####
 
