@@ -21,6 +21,14 @@ This project is related to mine because (insert reasons here).
 
 https://www.kitronik.co.uk/blog/microbit-alarm-kitronik-university/
 
+![Image](bbc_microbit_buzz_off_alarm_01_560.jpg)
+
+This project is related to mine because (insert reasons here).
+
+### Project 3 - Hitting the Right Note with The :KLEF Piano ###
+
+https://www.cieonline.co.uk/kitronik-hits-the-high-note-with-the-launch-of-three-new-bbc-microbit-products/
+
 ![Image](3_LnUn2AiNxL.jpg)
 
 This project is related to mine because (insert reasons here).
