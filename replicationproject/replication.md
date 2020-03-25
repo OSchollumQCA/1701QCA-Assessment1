@@ -45,7 +45,7 @@ This project is related to mine because (insert reasons here).
 
 https://www.elephantjay.com/blogs/tutorial/234
 
-![Image](Screen Shot 2020-03-25 at 2.56.59 pm)
+![Image](crocokit12_grande.gif)
 
 This project is related to mine because (insert reasons here).
 
