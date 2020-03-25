@@ -37,7 +37,15 @@ This project is related to mine because (insert reasons here).
 
 https://makecode.microbit.org/courses/csintro/radio/project
 
-![Image]()
+![Image](keyboard-copper-tape.png)
+
+This project is related to mine because (insert reasons here).
+
+### Project 5 - Analog keyboard ###
+
+https://www.elephantjay.com/blogs/tutorial/234
+
+![Image](keyboard-copper-tape.png)
 
 This project is related to mine because (insert reasons here).
 
