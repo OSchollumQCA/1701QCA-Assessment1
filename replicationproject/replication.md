@@ -29,9 +29,18 @@ This project is related to mine because (insert reasons here).
 
 https://www.cieonline.co.uk/kitronik-hits-the-high-note-with-the-launch-of-three-new-bbc-microbit-products/
 
-![Image](3_LnUn2AiNxL.jpg)
+![Image](Kitronik-KLEFF-Grand-Piano-768x576.jpg)
 
 This project is related to mine because (insert reasons here).
+
+### Project 4 - Radio project ###
+
+https://makecode.microbit.org/courses/csintro/radio/project
+
+![Image]()
+
+This project is related to mine because (insert reasons here).
+
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
