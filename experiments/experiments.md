@@ -8,9 +8,7 @@
 
 ### Saying 'Hello!' to the BBC micro:bit ###
 
-
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
 ![Image]('Hello'.jpg)
 
@@ -24,9 +22,7 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Using a light sensor and analog inputs ###
 
-
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](IMG_1014.JPG)
 
@@ -43,7 +39,6 @@ This experiment could be the basis of a real world application such as (insert s
 (Replace this with the experiment name)
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](IMG_1018.PNG)
 
@@ -60,7 +55,6 @@ This experiment could be the basis of a real world application such as a typical
 (Replace this with the experiment name)
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](IMG_0736_2.JPG)
 
@@ -77,7 +71,6 @@ This experiment could be the basis of a real world application such as a fan for
 (Replace this with the experiment name)
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](IMG_1022.JPG)
 
