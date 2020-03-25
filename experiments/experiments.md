@@ -12,7 +12,7 @@
 
 ![Image]('Hello'.jpg)
 
-(Insert a caption here)
+Figure 1.1 showing the 'H' of the continuous 'Hello' sign. 
 
 #### Reflection ####
 
@@ -26,7 +26,7 @@ This experiment could be the basis of a real world application such as (insert s
 
 ![Image](IMG_1014.JPG)
 
-(Insert a caption here)
+Figure 1.2 showing myself covering the light to display the moon, because it's dark.
 
 #### Reflection ####
 
@@ -40,7 +40,7 @@ This experiment could be the basis of a real world application such as (insert s
 
 ![Image](IMG_1018.PNG)
 
-(Insert a caption here)
+Figure 1.3 showing myself turning the dimmer all the way to make it light. 
 
 #### Reflection ####
 
@@ -54,7 +54,7 @@ This experiment could be the basis of a real world application such as a typical
 
 ![Image](IMG_0736_2.JPG)
 
-(Insert a caption here)
+Figure 1.4 showing the motor driving the mini fan.
 
 #### Reflection ####
 
@@ -68,7 +68,7 @@ This experiment could be the basis of a real world application such as a fan for
 
 ![Image](IMG_1022.JPG)
 
-(Insert a caption here)
+Figure 1.5 showing myself pressing the A button on the mircobit, whilst the buzzer goes off.
 
 #### Reflection ####
 
