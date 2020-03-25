@@ -45,10 +45,17 @@ This project is related to mine because (insert reasons here).
 
 https://www.elephantjay.com/blogs/tutorial/234
 
-![Image](keyboard-copper-tape.png)
+![Image](Screen Shot 2020-03-25 at 2.56.59 pm.png)
 
 This project is related to mine because (insert reasons here).
 
+### Project 6 - Fruit Piano ###
+
+https://category.yahboom.net/products/alligatorclipboard
+
+![Image](Screen Shot 2020-03-25 at 2.56.59 pm.png)
+
+This project is related to mine because (insert reasons here).
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
