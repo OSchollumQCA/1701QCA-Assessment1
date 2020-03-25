@@ -17,6 +17,14 @@ https://www.hackster.io/anish78/piezo-buzzer-with-bbc-micro-bit-b0fc27
 
 This project is related to mine because (insert reasons here).
 
+### Project 2 - Don't Steal my BBC micro:bit Alarm ###
+
+https://www.kitronik.co.uk/blog/microbit-alarm-kitronik-university/
+
+![Image](3_LnUn2AiNxL.jpg)
+
+This project is related to mine because (insert reasons here).
+
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
