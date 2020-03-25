@@ -28,7 +28,7 @@ This experiment could be the basis of a real world application such as (insert s
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](Light Sensor.jpg)
+![Image](light sensor.jpg)
 
 (Insert a caption here)
 
