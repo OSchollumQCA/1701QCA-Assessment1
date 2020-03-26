@@ -14,7 +14,7 @@ https://www.hackster.io/anish78/piezo-buzzer-with-bbc-micro-bit-b0fc27
 
 ![Image](3_LnUn2AiNxL.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because this will be the starting point for my experiment, this will be the absolute basics of how to create my project.
 
 ### Project 2 - Don't Steal my BBC micro:bit Alarm ###
 
