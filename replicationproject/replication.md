@@ -123,7 +123,7 @@ Learning the process is useful for my developing design, being able to overcome 
 
 ## Part 4 ##
 
-![Image](missingimage.png)
+![Image](Screen_Shot_2020-03-26_at_12.01.07_pm.png)
 ![Image](missingimage.png)
 
 ## Part 5 ##
