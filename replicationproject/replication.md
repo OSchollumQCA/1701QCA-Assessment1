@@ -22,7 +22,7 @@ https://www.kitronik.co.uk/blog/microbit-alarm-kitronik-university/
 
 ![Image](bbc_microbit_buzz_off_alarm_01_560.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it also shows the basic skills needed to complete my project in order to make it successful. It shows the connection of the speaker in which i will use in my project.
 
 ### Project 3 - Hitting the Right Note with The :KLEF Piano ###
 
@@ -30,7 +30,7 @@ https://www.cieonline.co.uk/kitronik-hits-the-high-note-with-the-launch-of-three
 
 ![Image](Kitronik-KLEFF-Grand-Piano-768x576.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because of the keyboard used. The construction of the piano will be useful for my project.
 
 ### Project 4 - Radio project ###
 
@@ -38,7 +38,7 @@ https://makecode.microbit.org/courses/csintro/radio/project
 
 ![Image](keyboard-copper-tape.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because of the way it's built and the functions. This is something I'd like to incorporate.
 
 ### Project 5 - Analog keyboard ###
 
@@ -46,7 +46,7 @@ https://www.elephantjay.com/blogs/tutorial/234
 
 ![Image](crocokit12_grande.gif)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because of the touch sensors. This will be replicated in my experiment. 
 
 ### Project 6 - Fruit Piano ###
 
@@ -54,7 +54,7 @@ https://category.yahboom.net/products/alligatorclipboard
 
 ![Image](microbit_5_1ef84bf5-cfc4-43ff-a104-69a96e9b6278_1024x1024.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because of the multiple use of the buttons (aka fruits). I would like to try and replicate this within my experiment.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
