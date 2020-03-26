@@ -110,11 +110,13 @@ Learning the process is useful for my developing design, being able to overcome 
 ## Part 1 ##
 
 ![Image](Screen_Shot_2020-03-26_at_11.05.31_am.png)
+
 ![Image](Screen_Shot_2020-03-26_at_11.05.41_am.png)
 
 ## Part 2 ##
 
 ![Image](Screen_Shot_2020-03-26_at_11.29.20_am.png)
+
 ![Image](Screen_Shot_2020-03-26_at_11.29.34_am.png)
 
 ## Part 3 ##
@@ -124,7 +126,8 @@ Learning the process is useful for my developing design, being able to overcome 
 ## Part 4 ##
 
 ![Image](Screen_Shot_2020-03-26_at_12.01.07_pm.png)
-![Image](missingimage.png)
+
+![Image](Screen_Shot_2020-03-26_at_12.01.23_pm.png)
 
 ## Part 5 ##
 
