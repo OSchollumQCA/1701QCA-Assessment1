@@ -107,7 +107,7 @@ Learning the process is useful for my developing design, being able to overcome 
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-![Image](Screen Shot 2020-03-26 at 11.05.41 am.png)
+![Image](Screen_Shot_2020-03-26_at_11.05.41_am.png)
 
 *Include screenshots of the code you have used.*
 
