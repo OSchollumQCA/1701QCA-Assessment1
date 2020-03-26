@@ -160,13 +160,9 @@ This project I've created is called the 'Potato Buzzer'. The potato buzzer is us
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
 ![Image](IMG_1057.JPG)
 
 ### Additional view ###
-
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
 ![Image](IMG_1072.JPG)
 
@@ -174,7 +170,7 @@ This project I've created is called the 'Potato Buzzer'. The potato buzzer is us
 
 ![Image](IMG_1070.JPG)
 
-![Image](missingimage.png)
+![Image](IMG_1071.JPG)
 
 ### Reflection ###
 
