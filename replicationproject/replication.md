@@ -184,3 +184,5 @@ This project I've created is called the 'Potato Buzzer'. The potato buzzer is us
 
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
+
+My whole journey through making this experiment was very challenging
