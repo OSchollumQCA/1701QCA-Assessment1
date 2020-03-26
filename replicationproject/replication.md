@@ -131,8 +131,7 @@ Learning the process is useful for my developing design, being able to overcome 
 
 ## Part 5 ##
 
-![Image](missingimage.png)
-![Image](missingimage.png)
+![Image](Screen_Shot_2020-03-26_at_12.10.30_pm.png)
 
 *Include screenshots of the code you have used.*
 
