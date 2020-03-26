@@ -152,13 +152,11 @@ Learning the process is useful for my developing design, being able to overcome 
 
 ## Project outcome ##
 
-*Complete the following information.*
-
-### Project title ###
+### Potato Buzzer ###
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+This project I've created is called the 'Potato Buzzer'. The potato buzzer is used for people needing a quick and easy buzzer for family game nights. The buzzer was created to be quick and simple for anyone to be able to me. 
 
 ### Showcase image ###
 
