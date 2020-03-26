@@ -162,7 +162,7 @@ This project I've created is called the 'Potato Buzzer'. The potato buzzer is us
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
+![Image](IMG_1057.JPG)
 
 ### Additional view ###
 
