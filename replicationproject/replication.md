@@ -174,15 +174,8 @@ This project I've created is called the 'Potato Buzzer'. The potato buzzer is us
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+My whole journey through this experiment was very challenging because of my lack of knowledge on the topic. I struggled to even get the basics of this experiment working, which made it hard for me to add to. This is the reason for my ‘Potato Buzzer’ project. It was never going to be called this, but over my journey it was the only thing that made sense to me. I spent days trying to trial and error to help me with my process, but in the end, I made something extremely useful for anyone who’s playing a game needed a buzzer. I changed the original experiment by using a piezo element buzzer instead of headphones. I also replaced the banana’s with potatoes. My reasoning behind this was that I wanted to use an object that was round, something that was easily accessible for anyone, usually you’d have a potato rolling around in your fridge. The great thing about this experiment is the capability of using any kind of object you can think of, therefore this element can easily fit the user’s needs. 
+This experiment could be improved by adding several different objects to create as a buzzer. Therefore, when playing a game, you can use just one mircobit, instead of having to create several different versions of the buzzer. Also perhaps making a button instead of using objects, this might improve the buzzer due to it being already there, without having to source your own button. 
+From the research I gathered, project 5 was really interesting to me. Perhaps something like this could be an extension off of my project. Connecting up my project to a digital display would elevate the whole project. Using the buzzer to either create different keyboard notes and play songs or use the buzzers in particular online games. There is no limit for what this project could create if it went further. 
+Overall the outcome wasn’t what I wanted because of my lack in skills and technique. The project was very challenging for me, yet I’m still happy with the outcome because it’s a functional and useful project to create. 
 
-
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
-
-
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
-
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
-
-My whole journey through making this experiment was very challenging
