@@ -113,15 +113,23 @@ Learning the process is useful for my developing design, being able to overcome 
 
 ![Image](Screen_Shot_2020-03-26_at_11.05.41_am.png)
 
+![Image](Screen_Shot_2020-03-26_at_12.36.41_pm.png)
+
+(Insert Comment)
+
 ## Part 2 ##
 
 ![Image](Screen_Shot_2020-03-26_at_11.29.20_am.png)
 
 ![Image](Screen_Shot_2020-03-26_at_11.29.34_am.png)
 
+![Image](missingimage.png)
+
 ## Part 3 ##
 
 ![Image](Screen_Shot_2020-03-26_at_11.48.25_am.png)
+
+![Image](missingimage.png)
 
 ## Part 4 ##
 
@@ -129,9 +137,13 @@ Learning the process is useful for my developing design, being able to overcome 
 
 ![Image](Screen_Shot_2020-03-26_at_12.01.23_pm.png)
 
+![Image](missingimage.png)
+
 ## Part 5 ##
 
 ![Image](Screen_Shot_2020-03-26_at_12.10.30_pm.png)
+
+![Image](missingimage.png)
 
 *Include screenshots of the code you have used.*
 
