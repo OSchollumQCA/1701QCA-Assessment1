@@ -123,7 +123,9 @@ Learning the process is useful for my developing design, being able to overcome 
 
 ![Image](Screen_Shot_2020-03-26_at_11.29.34_am.png)
 
-![Image](missingimage.png)
+![Image](Screen_Shot_2020-03-26_at_12.36.41_pm.png)
+
+(Insert Comment)
 
 ## Part 3 ##
 
