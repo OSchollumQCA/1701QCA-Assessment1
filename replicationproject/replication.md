@@ -172,7 +172,7 @@ This project I've created is called the 'Potato Buzzer'. The potato buzzer is us
 
 ![Image](IMG_1073.JPG)
 
-![Image](missingimage.png)
+![Image](IMG_1070.JPG)
 
 ![Image](missingimage.png)
 
