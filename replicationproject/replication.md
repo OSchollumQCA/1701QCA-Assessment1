@@ -57,9 +57,6 @@ https://category.yahboom.net/products/alligatorclipboard
 This project is related to mine because of the multiple use of the buttons (aka fruits). I would like to try and replicate this within my experiment.
 
 ## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
-
-*For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
@@ -100,11 +97,6 @@ Learning the process is useful for my developing design, being able to overcome 
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
-
-*This should have quite a lot of information!*
-
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
 ## Part 1 ##
 
@@ -114,7 +106,7 @@ Learning the process is useful for my developing design, being able to overcome 
 
 ![Image](Screen_Shot_2020-03-26_at_12.36.41_pm.png)
 
-(Insert Comment)
+Part 1 shows my progress in my first dteps of development. These were the basic skills i needed in order to go further into my development. I've also started using headphones as speakers, which I'll change later on. 
 
 ## Part 2 ##
 
@@ -124,13 +116,13 @@ Learning the process is useful for my developing design, being able to overcome 
 
 ![Image](Screen_Shot_2020-03-26_at_12.36.41_pm.png)
 
-(Insert Comment)
+Part 2, shows my progression stages. This was one of my first attempts at trying to form the banana keyboard experiment. I didn't have any bananas to use, so I had to improvise and use a tomato and grape. I spent a long time trying to perfect the original experiment, and i really struggled. 
 
 ## Part 3 ##
 
 ![Image](Screen_Shot_2020-03-26_at_11.48.25_am.png)
 
-(Insert Comment)
+Part 3, I chnaged the song/tone of the buzzer. This was because i wanted to try and get an idea of how it all works, in regards to the code. This helpd with my understanding of how th sound works, and how these things can be changed. Here I was also still using my headphones to create the sound. 
 
 ## Part 4 ##
 
@@ -140,13 +132,12 @@ Learning the process is useful for my developing design, being able to overcome 
 
 ![Image](Screen_Shot_2020-03-26_at_12.31.39_pm.png)
 
-(Insert Comment)
-
+Part 4, I tried to use the tomato and grape to make the buzzer sound. I firstly went in and created the code, but as i downloaded this onto my mircobit it still wasnt working. I tried to manipulate this serval times in order for them to work, but failed everytime. At this point i found myself just wasting time, therefore I moved onto part 5. 
 ## Part 5 ##
 
 ![Image](Screen_Shot_2020-03-26_at_12.10.30_pm.png)
 
-(Insert Comment)
+Part 5, I decided to change my speaker to the piezo element buzzer. Using the piezo element buzzer was heaps more effective used as a speaker for this experiment. At this point I've decided the best way to connect my wires is using clips. I tried several different ways of doing this by using, tape and bluetack. Yet the most effective was the clips i used. What really would've helped was using aligator clips, this would've saved me heaps of time in my experiment stages. 
 
 
 ## Project outcome ##
