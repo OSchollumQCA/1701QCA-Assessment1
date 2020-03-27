@@ -18,8 +18,6 @@ Figure 1.1 showing the 'H' of the continuous 'Hello' sign.
 
 In this experiment, I learnt the basics of using a mirco:bit and bread board to display icons and words. 
 
-This experiment could be the basis of a real world application such as (insert something here).
-
 ### Using a light sensor and analog inputs ###
 
 #### Photo of completed project ####
@@ -31,8 +29,6 @@ Figure 1.2 showing myself covering the light to display the moon, because it's d
 #### Reflection ####
 
 In this experiment, I've learnt how to use a light sensor, while also being able to change the lighting when the enviroment is lighter or darker.
-
-This experiment could be the basis of a real world application such as (insert someth.
 
 ### Dimming an LED using a potentiometer ###
 
@@ -73,7 +69,5 @@ Figure 1.5 showing myself pressing the A button on the mircobit, whilst the buzz
 #### Reflection ####
 
 In this experiment, I've learnt how to use a piezo buzzer.
-
-This experiment could be the basis of a real world application such as (insert something here).
 
 
